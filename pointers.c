@@ -87,7 +87,6 @@ int main()
 }
 
 //Sum of pairs divisible by a specified number
-Hi.. I will send the codes one by one. 
 
 #include<stdio.h>
 #include <stdlib.h>
