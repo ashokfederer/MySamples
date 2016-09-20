@@ -13,7 +13,8 @@ void push(int data)
 	temp->data=data;
 	if(top==NULL)
 	{
-		top = temp;	
+		top = temp;
+		top->next = NULL;
 	}
 	else
 	{
